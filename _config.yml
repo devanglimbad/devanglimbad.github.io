@@ -6,7 +6,7 @@ description         : >-
                       new :hammer: tools in Unity and Unreal Engine.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : devanglimbad/devanglimbad.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-#remote_theme        : YoussefRaafatNasry/portfolYOU
+remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -25,7 +25,13 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Devang Limbad
+  job-title         : Game Developer
   image             : assets/profile.jpg
+  city              : Ahmedabad
+  State             : Gujarat
+  Country           : India
+  Country-Code      : IN
+  website-url       : https://devanglimbad.github.io
 # behance           : your_username
 # dribbble          : your_username
   email             : devanglimbad@gmail.com
@@ -42,6 +48,7 @@ author:
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
   twitter           : devanglimbad212
+  phone             : +91 8460708954
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
