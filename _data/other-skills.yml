@@ -1,0 +1,23 @@
+- name: Unreal Engine
+  percentage: 30
+  color: info
+
+- name: Blender
+  percentage: 60
+  color: info
+
+- name: Adobe After Effects
+  percentage: 75
+  color: info
+
+- name: Adobe Premiere Pro
+  percentage: 70
+  color: info
+
+- name: Adobe Photoshop
+  percentage: 90
+  color: info
+
+- name: Adobe Illustrator
+  percentage: 75
+  color: success
